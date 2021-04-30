@@ -7,6 +7,7 @@ public class GitTest {
         System.out.println("git version4");
         System.out.println("master test");
         System.out.println("git hot-fix2");
+        System.out.println("push test");
     }
 
 }
