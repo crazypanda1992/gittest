@@ -5,6 +5,7 @@ public class GitTest {
         System.out.println("git version2");
         System.out.println("git version3");
         System.out.println("git version4");
+        System.out.println("master test");
     }
 
 }
